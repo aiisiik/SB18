@@ -1,6 +1,5 @@
 ﻿#include <iostream>
 #include <string.h>
-#include "SB18.h"
 
 class Player {
 public:
